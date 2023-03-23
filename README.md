@@ -1,5 +1,5 @@
 # HTML
 Winc Acadamy -- Front-end Development 
 
-HTML Final Assignment
-- My First Website
+HTML School Assignments
+HTML Final Assignment Project Hackathon
